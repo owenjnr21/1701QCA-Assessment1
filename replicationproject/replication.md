@@ -15,7 +15,7 @@
 
 (Insert URL to project)
 
-![Image](microbit-guitar.jpg)
+(microbit-guitar.jpg)
 
 This project is related to mine because (insert reasons here).
 
