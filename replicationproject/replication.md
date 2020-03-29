@@ -94,6 +94,7 @@ This project is related to mine because (insert reasons here).
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
 ![Image](microbit-guitar.jpg)
+![Video](microbit-guitar-test.mov)
 
 ### Additional view ###
 
