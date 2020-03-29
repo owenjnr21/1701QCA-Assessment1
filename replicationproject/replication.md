@@ -87,6 +87,8 @@ This project is related to mine because (insert reasons here).
 
 *The project was to create a guitar using the microbit, makecode micronit and inventors tool kit to replicate a guitar.The guitar functions with the use of motion, senses and touch through the microbit.*
 
+*Video of Guitar https://youtu.be/QA3U0RxR7to*
+
 *In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
 
 ### Showcase image ###
