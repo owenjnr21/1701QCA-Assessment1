@@ -62,6 +62,10 @@ This project is related to mine because (insert reasons here).
 
 ## Process documentation
 
+*At the beginning of the process, I found it abit confusing as I was not sure on how to do coding in makemicrobit. As I went through the step I started to slowly pickup and understand about what some of the coding does to help make the microbit function. There are certain actions that are used to coding that tells the microbit what to do, for instance, there is an action used for when A or B buttons are pressed the microbit will work.*
+
+*One of the most challenging thing for me to do on this project was the wiring from the microbit to the headphones, as i did not have crocodile clips. In doing so I had to improvice and use the wires from the inventers kit and connected the ends of the wire with the use of clothing pegs to hold into place. As a result it worked.*
+
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
 
 *This should have quite a lot of information!*
@@ -74,11 +78,14 @@ This project is related to mine because (insert reasons here).
 
 ## Project outcome ##
 
-*Complete the following information.*
+*The project was not that successful as when doing some of the actions on the guitar, it was not working.*
 
 ### Project title ###
+*Microbit Guitar*
 
 ### Project description ###
+
+*The project was to create a guitar using the microbit, makecode micronit and inventors tool kit to replicate a guitar.The guitar functions with the use of motion, senses and touch through the microbit.*
 
 *In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
 
@@ -86,7 +93,7 @@ This project is related to mine because (insert reasons here).
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](microbit-guitar.jpg)
 
 ### Additional view ###
 
@@ -95,6 +102,8 @@ This project is related to mine because (insert reasons here).
 ![Image](missingimage.png)
 
 ### Reflection ###
+
+*At the start of the project, I found it much more easy to understand the coding of this project as it was not that complex. However as the step went on it became abit difficult to understand. There could be improvement on the coding and the building of the guitar if there was extra time to do so.*
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
 
